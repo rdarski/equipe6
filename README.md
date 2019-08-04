@@ -1,2 +1,2 @@
 # equipe6
-Estudo de caso
+Estudo    de caso
